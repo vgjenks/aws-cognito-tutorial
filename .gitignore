@@ -1,0 +1,9 @@
+*.js
+!jest.config.js
+*.d.ts
+node_modules
+.env
+tilix.json
+.cdk.staging
+cdk.out
+.DS_Store
