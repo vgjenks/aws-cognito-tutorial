@@ -7,3 +7,4 @@ tilix.json
 .cdk.staging
 cdk.out
 .DS_Store
+.vscode/
